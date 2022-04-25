@@ -1,0 +1,17 @@
+#item{
+    display: flex;
+    /* background-color: burlywood; */
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    width: 300px;
+}
+
+#item img {
+    max-width: 180px;
+}
+
+/* .content{
+    background-color: blue;
+} */
+

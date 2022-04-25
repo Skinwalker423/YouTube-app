@@ -1,0 +1,38 @@
+/* #videoDisplay{
+    display: flex;
+    background-color: blueviolet;
+}
+
+#videoDetails{
+    width: 1000px;
+}
+
+#imgDetail{
+    width: 500px;
+} */
+
+/* @media (max-width: 500px) {
+    #videoDisplay {
+        background-color: red;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    #vidContent{
+        display: flex;
+        flex-direction: column;
+    }
+    #videoDetails{
+        width: 100%;
+    }
+    #item{
+        display: flex;
+        flex-direction: column;
+    }
+} */
+
+.defaultDisplay{
+    display: flex;
+    justify-content: flex-end;
+
+}
