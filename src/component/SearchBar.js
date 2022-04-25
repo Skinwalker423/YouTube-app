@@ -8,7 +8,7 @@ const SearchBar = ({onSubmitApiCall, vidList}) => {
     const onSearchSubmit = async (e) => {
         e.preventDefault();
         const vids = await onSubmitApiCall(query);
-        console.log('form submitted');
+        console.log(vids);
         }
     
     return(

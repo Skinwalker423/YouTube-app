@@ -15,9 +15,3 @@ const VideoItem = ({vid, onVideoSelect}) => {
 
 export default VideoItem;
 
-
-// const vidBody = props.vid.map(v => {
-//         return <a href={`https://www.youtube.com/watch?v=${v.id.videoId}`} key={v.id.videoId} target="_blank" ><img src={v.snippet.thumbnails.default} alt={v.snippet.description} /></a>
-//       })
-
-{/* <div className="description">{vid.snippet.description}</div> */}
