@@ -1,3 +1,6 @@
+Here is a link to the open published deploy from Netlify
+https://main--grand-figolla-62395d.netlify.app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
